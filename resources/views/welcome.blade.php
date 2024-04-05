@@ -1,0 +1,1 @@
+<a href="{{route('barang.index')}}">Klik Disini</a>
